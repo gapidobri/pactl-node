@@ -1,0 +1,16 @@
+{
+  "name": "pactl",
+  "version": "1.0.0",
+  "description": "PulseAudio pactl API",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "keywords": [
+    "pulseaudio",
+    "pactl"
+  ],
+  "author": "gapidobri",
+  "license": "ISC",
+  "dependencies": {}
+}
